@@ -8,7 +8,7 @@ This isn't really a website, and it's not really a blog. It's more-or-less a
 place that allows me to share ad-hoc notes via the interwebs.
 
 The notes stored here will mostly be random thoughts and essays, along
-with whatever other miscellaneous things I feel likje sharing.
+with whatever other miscellaneous things I feel like sharing.
 
 If you want to track when updates are made to this website, check out its
 [repository 
