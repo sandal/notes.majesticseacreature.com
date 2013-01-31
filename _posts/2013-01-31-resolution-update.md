@@ -1,5 +1,5 @@
 ---
-title: 2013 Resolution Update #1
+title: 2013 Resolution Update -- January
 layout: default
 ---
 
