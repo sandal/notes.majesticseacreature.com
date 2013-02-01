@@ -3,6 +3,8 @@ title: Slow cooking a novel
 layout: default
 ---
 
+# {{page.title}}
+
 For about a decade now, I have wanted to participate in [National Novel
 Writing Month](http://www.nanowrimo.org/) (NaNoWriMo). It's not because my adult
 self aspires to become a great writer of fiction, but because that is what my
