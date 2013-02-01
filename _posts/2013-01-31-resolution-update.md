@@ -5,7 +5,7 @@ layout: default
 
 # {{ page.title }}
 
-Last year I managed to successfully stick to the spirit of my New Years
+Last year I managed to successfully stick to the spirit of my New Year's
 resolution, for the first time in my life. Cursed by that success, I'm
 making a serious attempt at a repeat experience in 2013. This is a quick
 progress report mainly for my own sake, to remind me of what I am trying
