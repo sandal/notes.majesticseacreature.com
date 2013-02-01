@@ -15,7 +15,7 @@ Of course, there are other reasons why I wish I could do NaNoWriMo, some of
 which are even practical. I feel like I always learn a lot from large scale
 projects, and that they occupy my mind in a way that gives me a sense of purpose
 and drive. Now that I get to work on studying programming and playing with ideas
-in code AS MY JOB, I am left with the desire to work on non-programming related
+in code *as my job*, I am left with the desire to work on non-programming related
 projects too. I don't want to do this for money, or for fame, but just for a
 personal sense of satisfaction and joy.
 
