@@ -12,7 +12,7 @@ progress report mainly for my own sake, to remind me of what I am trying
 to stick to. This year, I have two resolutions, one very specific, 
 and the other very vague. 
 
-The vague resolution is to simply avoid feeling "busy" as much as 
+My vague resolution is to simply avoid feeling "busy" as much as 
 possible. While I did good job of this in January, February felt much
 busier for me. This may have just been due to the writing course I had
 to run, or it could have been due to the fact that I was playing catch
@@ -23,7 +23,7 @@ symptom of the problem I'm trying to avoid. Next month I'll try to make
 sure to take more intentional days off to avoid the accidental ones,
 and avoid scheduling too much work for myself if possible!
 
-My more specific resolution is meant to help encourage me to really work when
+My specific resolution is meant to encourage me to really work when
 I'm working, really play when I'm playing, and really relax when I'm relaxing.
 To that end, I've asked myself to avoid screen-based entertainment Mondays
 through Thursdays (except holidays and other special occasions). So far, my
