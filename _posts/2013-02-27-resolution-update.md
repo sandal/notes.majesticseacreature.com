@@ -33,8 +33,8 @@ Back in the [January
 update](http://notes.majesticseacreature.com/2013/01/31/resolution-update.html),
 I noted that I had been perfect at dealing with TV and video games, but was
 still struggling with my casual internet browsing in the evenings. I suggested
-that I'd come up with a plan for how I wanted to use the computer in the evening
-in advance hoping that would help, but I just couldn't force myself into
+that I'd come up with a plan for how I wanted to use the computer each evening
+in -- hoping that would help -- but I just couldn't force myself into
 that habit.
 
 Other concerns are cropping up too. For example: my current schedule doesn't
