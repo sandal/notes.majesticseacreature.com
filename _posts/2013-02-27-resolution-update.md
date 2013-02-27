@@ -1,5 +1,5 @@
 ---
-title: 2013 Resolution Update -- January
+title: 2013 Resolution Update -- February
 layout: default
 ---
 
@@ -9,10 +9,8 @@ Last year I managed to successfully stick to the spirit of my New Year's
 resolution, for the first time in my life. Cursed by that success, I'm
 making a serious attempt at a repeat experience in 2013. This is a quick
 progress report mainly for my own sake, to remind me of what I am trying
-to stick to.
-
-This year, I have two resolutions, one very specific, and the other very 
-vague. 
+to stick to. This year, I have two resolutions, one very specific, 
+and the other very vague. 
 
 The vague resolution is to simply avoid feeling "busy" as much as 
 possible. While I did good job of this in January, February felt much
