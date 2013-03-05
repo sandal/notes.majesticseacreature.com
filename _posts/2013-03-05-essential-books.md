@@ -22,7 +22,7 @@ different light:
 * The Meditator's Workbook (Flickstein)
 * A First Course in Topology (Conover)
 
-I haven't included link for the above, because I don't want to necessarily
+I haven't included links for the above, because I don't necessarily want to
 encourage you to buy these books from a particular place. I also haven't
 included reviews, because they've all influenced me in a very personal
 way. But I can wholeheartedly recommend them to you, and if you read
