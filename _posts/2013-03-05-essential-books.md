@@ -14,7 +14,7 @@ different light:
 * Thinking, Fast and Slow (Kahneman)
 * The Penguin and the Leviathan (Benkler)
 * The Power of Habit (Duhigg)
-* How to Win Friends and Influence People (Carnegy)
+* How to Win Friends and Influence People (Carnegie)
 * What Got You Here Won't Get You There (Goldsmith)
 * The Design of Everyday Things (Norman)
 * The First Five Pages (Lukeman)
