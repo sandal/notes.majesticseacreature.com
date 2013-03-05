@@ -20,7 +20,7 @@ different light:
 * The First Five Pages (Lukeman)
 * Anything You Want (Sivers)
 * The Meditator's Workbook (Flickstein)
-* A First Course In Topology (Conover)
+* A First Course in Topology (Conover)
 
 I haven't included link for the above, because I don't want to necessarily
 encourage you to buy these books from a particular place. I also haven't
