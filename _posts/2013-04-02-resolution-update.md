@@ -13,4 +13,4 @@ was also sick for about 10 days. So... I watched a *ton* of TV, played a lot of
 video games (Tropico), and spent a huge chunk of time mindlessly 
 browsing the web.
 
-So umm... this month was too chaotic to analyze. Let's see how April goes!
+This month was too chaotic to analyze. Let's see how April goes!
